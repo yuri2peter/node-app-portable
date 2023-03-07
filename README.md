@@ -5,6 +5,7 @@
 ## 懒人包
 
 你可以从该项目的[release](https://github.com/yuri2peter/node-app-protable/releases)中下载到带完整环境的模板，替换为自己的app源码后即可投入使用。
+- [懒人包1.0.0](https://github.com/yuri2peter/node-app-protable/releases/tag/1.0.0)
 > 懒人是科技发展的第一生产力。
 
 ## 为什么需要它？
@@ -38,7 +39,7 @@
 
 ```bat
 @echo off
-rem start.cmd
+rem start.bat
 
 rem 修改CMD标题
 title 我的应用
@@ -58,6 +59,8 @@ cd %node_app_runtime_path%/app/dist
 rem 运行app项目
 node main.js
 
+echo "运行完毕"
+pause
 ```
 
 > 1. 该文件如果出现中文字符，一定要按ANSI编码保存。
