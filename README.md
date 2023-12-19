@@ -1,11 +1,11 @@
-# node-app-protable
+# node-app-portable
 
 该项目为便携式NodeJS应用模板。
 
 ## 懒人包
 
-你可以从该项目的[release](https://github.com/yuri2peter/node-app-protable/releases)中下载到带完整环境的模板，替换为自己的app源码后即可投入使用。
-- [懒人包1.1.0](https://github.com/yuri2peter/node-app-protable/releases/tag/1.1.0) 
+你可以从该项目的[release](https://github.com/yuri2peter/node-app-portable/releases)中下载到带完整环境的模板，替换为自己的app源码后即可投入使用。
+- [懒人包1.1.0](https://github.com/yuri2peter/node-app-portable/releases/tag/1.1.0) 
 > “懒”才是推进科技进步的第一生产力。
 
 ## 为什么需要它？
@@ -24,7 +24,7 @@
 ## 目录结构
 
 ```bash
-|- node-app-protable # 根目录
+|- node-app-portable # 根目录
   |- app # 应用
     |- data # 数据
     |- html # html静态文件
